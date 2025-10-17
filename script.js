@@ -1,7 +1,7 @@
 // Countdown Timer Logic
 function updateCountdown() {
-    // Target end date: October 19, 2025 at 11:59 PM IST
-    const targetDate = new Date('2025-10-19T23:59:59+05:30');
+    // Target end date: October 20, 2025 at 11:59 PM IST
+    const targetDate = new Date('2025-10-20T23:59:59+05:30');
     const now = new Date();
     
     // Calculate time difference
